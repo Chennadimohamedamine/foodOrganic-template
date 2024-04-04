@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Gloock&family=Lato:ital,wght@1,300&family=Tajawal&display=swap");
+:root {
+  --f-all: "Tajawal", "Lato", "Gloock", serif, sans-serif;
+  --f-t: "AlexBrush";
+  --f-t1: "Abigile";
+  --f-t2: "AGentleTouch";
+  --f-t3: "DancingScript";
+  --f-t4: "a";
+  --f-t5: "Weathley-Candila";
+  --f-t6: "ac";
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: "AlexBrush";
+  src: url(AlexBrush-Regular.ttf);
+}
+@font-face {
+  font-family: "Abigile";
+  src: url(Abigile.ttf);
+}
+@font-face {
+  font-family: "AGentleTouch";
+  src: url(A\ Gentle\ Touch.ttf);
+}
+@font-face {
+  font-family: "DancingScript";
+  src: url(DancingScript-Bold.ttf);
+}
+@font-face {
+  font-family: "a";
+  src: url(Admiration\ Pains.ttf);
+}
+@font-face {
+  font-family: "Weathley-Candila";
+  src: url(Weathley\ Candila.otf);
+}
+@font-face {
+  font-family: "ac";
+  src: url();
+}
